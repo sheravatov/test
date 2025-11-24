@@ -1,0 +1,1299 @@
+1 Ikki xodisa birgalikda deyiladi. Agar
++ birining ruy berishi ikkinchisining ruy berishini inkor etmasa.
+-	Ikalasi xam ruy bermasa
+-	Birining ruy berishidan	ikkinchisining ruy berishi kelib chiksa
+-	fakat bittasi ruy bersa
+
+2 Ikkita xodisaning yigindisi deb
++ Xodisalarning  birgalikda ruy berishidan
+-	Xodisalarning kamida bittasining ruy	berishidan
+-	Xodisalarning biri ruy berganda ikkinchisining  ruy berishidan
+-	Xodisalarning ruy bermasligi
+
+3 Ikki xodisa birgalikda  emas deyiladi, agar bir sinovda
++ ularning birining ruy berishi, ikkinchisining ruy berishi ikkinchisining ruy berishini inkor etsa
+-	fakat bittasi ruy bersa
+-	Ikkalasi xam ruy bermasa
+-	Ikkalasi xam ruy bersa
+
+4 Ikki xodisaning kupaytmasi deb, xodisalarning
++ Birgalikda ruy bermasligidan iborat
+-	Bittasining ruy berishidan
+-	Ikkalasining  xam ruy bermasligidan
+-	kamida bittasining ruy berishidan iborat xodisaga aytiladi
+
+5 Ikkita uyin sokkasi tashlanganda sokkalarni yeklarida tushgan	achkolari yigindisi yettiga teng bulish extimolini toping?
++ 1/6;
+- 7/18;
+- 1/36;
+- 7/36;
+
+6 Tanga ikki marta tashlangan, xech bulmaganda bir marta «Gerb»	tomoni tushish extimolini toping?
++ 3/4;
+- 1/6;
+- 1/18;
+- 1/4;
+
+7 yexda 6 erkak va 4 ayol ishlaydi. Tabel nomeri buyicha	tavakkaliga	7 kishi ajratilgan. Ajratilganlar orasida 3 ayol bulish extimolini toping.
++ 1/2;
+- 0,75;
+- 0,25;
+- 2/3;
+
+8 Ikki tupdan bir yula uk uzishda  nishonga bitta uk  tegish extimoli 0,38 ga teng. Agar ikkinchi tupdan bitta  otishda ukning nishonga tegish extimoli  0,8 ga teng bulsa birinchisi nechaga teng?
++ 0,3;
+- 0,7;
+- 0,8;
+- 0,4;
+
+9 Student uziga kerakli formulani 3 ta darslikdan izlamokda. Formulaning birinchi ikkinsi va uchinchi darslikda bulish extimoli mos ravishda 0,6 ; 0,7; 0,8 ga teng. formula uchala darslikda bulish extimolini toping?
+ 
++ 0,336
+- 0,452
+- 0,53;
+- 0,188;
+
+
+10 Yashikda	10 ta detal	bulib, ular orasida 6 tasi buyalgan. Yiguvchi tavakkaliga olgan 4 ta detaldan xammasi buyalgan bulish extimolini toping?
++ 1/14
+- 3/5;
+- 2/5;
+- 2/3;
+
+11 4 ta uk uzishda kamida 1 ta ukning nishonga tegish extimoli 0,9984 ga	teng 1 uk uzishda nishonga tegish extimolini toping?
++ 0,8;
+- 0,4;
+- 0,6;
+- 0,2;
+
+12 Uch mergan bir yula uk uzishdi bunda 2 uq nishonga	tegdi. Agar	birinchi, 2 chi va 3 chi	merganlarning nishonga tekkizganlik extimolini toping?
++ 1;
+- 7/9;
+- 1/2;
+- 8/13;
+
+
+? Agar 1 ta sinovda A xodisaning	ruy berish	extimoli 0,4 ga teng bulsa	u xolda 4 ta erkli	sinovda A xodisaning kamida 3 marta ruy berish extimoli toping?
++ 0,1792;
+- 0,52;
+- 0,1678;
+- 0,5;
+
+
+? Xar bir xodisaning ruy berish extimoli R ga teng bulgan n ta erkli sinovda xodisaning M marta ruy berish extimoli kuyidagi formulalarning kaysi biri bilan ifodalanadi
++ R (m)   n!	Pmqn m n  m! (n  m)
+I	;
+-	R (m)	n!	Pnnmq m
+n (n	m)
+I	;
+-	R (m)	n!	Pmmnq m
+n	(n	m)
+I	;
+-	R (m)	n!	Pmqnnm n	(n	m)
+
+
+
+? Agar xar bir sinovda	xodisaning	ruy berish extimoli 0,25 ga teng	bulsa bu xodisaning 243 ta  sinovda rosa  70 marta  ruy berish extimoli toping?
++ 0,0231;
+- 0,1561;
+- 0,0989;
+ 
+- 0,034;
+
+? Utkazilgan tajribada xodisaning 2100 ta erkli sinovningxar birida ruy berish extimoli 0,7 ga teng, xodisaning kamida 1470 marta va kupi bilan 1500 marta ruy berish extimoli toping?
++ 0,4236;
+- 0,561
+- 0,6321;
+- 0,5;
+
+? Statistik ma’lumotlarga kura ugil bola tugilishi 0,51 ga teng tugilgan 100 chakalokning 50 tasi ugil	bulish extimolini toping?
++ 0,0782;
+- 0,084;
+- 0,1242;
+- 0,5;
+
+? A xodisaning ruy bermasligidan iborat  xodisa unga
++ bog‘liq;
+-	boglikmas;
+-	teskari
+-	ekvivalent;
+
+? Xodisalarni kushish va kupaytirish  amallaridan biri notugri.
++ 0+v=v+a;;
+-	av=6a;
+-	(av))	a(vs) ;
+-	tugri javob  yuk;
+
+
+? Agar  -mukarrar  xodisa bulsa u xolda.
++ P(U)=1;
+- P(U)=0;
+- 0< P(U)<1;
+-	tugri javob yuk
+
+? Birgalikdamas xodisalar extimolligi uchun kuyidagilarning kaysi biri notugri:
++ R(A+V)=R(V)
+-	R(av)	0
+-	A ga teskari xodisa
+-	R( AV)  R( A)  R(V)
+
+
+?Mumkin bulmagan xodisa extimoli uchun
++ P(U)=0;
+- P(U)=1;
+- 0< P(U)<1;
+- 0<=P(y)<=1
+
+
+? A1 ; A2..., An xodisalar xodisalarning tula gruxini tashkil kiladi deyiladi. Agar sinovda:
++ ular teng imkoniyatli bulsa;
+-	ular teng imkoniyatli bulmasa;
+-	ular xech bulmaganda bittasi ruy bersa;
+-	fyau ular boglik xodisalar bulsa;
+ 
+? Kuyidagilarni kaysi biri notugri.
++ A + A - mukarrar xodisa
+-	AA - mumkin bulmagan xodisa
+-	A + V = AV
+-	AV = A + V
+
+? Xodisaning 21 ta boglikmas sinovning xar birida ruy berish extimoli 0,7 ga teng sinovlarning kupchiligida xodisaning ruy berish extimoli topilsin?
++ 0,95945;
+- 0,7238;
+- 0,84265;
+- 0,6724;
+
+? Tangani 2 marta tashlashda «Gerb» tomoni tushish	soni -x diskrit tasodifiy mikdorning binomial taksimot konunini yozing?
++ X|0|1|2 P|1/4|1/2|1/4
+- X|0|1|4 P|1/4|1/4|1/2
+- X|0|1|2 P|1/4|2/4|1/2
+- 0
+
+? Diskrit tasodifiy mikdorning	matematik kutilishi uchun kuyidagi xossalardan kaysi biri notugri.
++ tugri javob yuk
+- M[xy]= M[x] *M[y]
+-	Binomial taksimot konuni uchun M[x]=np, n- sinovlar soni
+- b)  ;
+
+? Diskrit	tasodifiy	mikdorning dispersiyasi uchun kuyidagi xossalardan kaysi biri notugri.
++ D[c]=c;
+- D[cx]=c2 D[x];
+- D[c]=0;
+- D[x+y]= D[x]+D[y]
+
+
+X	2	3	4
+R	0,3 0,4 0,3
+? Taksimot konuni bilan berilgan	diskrit tasodifiy mikdorning dispersiyasini toping?
++	0,6
+-	0,5
+- 0,8
+- 0,83
+
+
+? A xodisaning xar biri sinovda ruy berish extimoli 0,2 ga teng. X diskrit tasodifiy mikdor A xodisaning 5 ta erkli sinovda ruy berish sonining dispersiyasini toping?
+
++ 0,8;
+- 0,9;
+- 0,74;
+- 0,62;
+ 
+? X diskrit tasodifiy mikdor 3 ta mumkin bulgan kiymatni kabul kiladi.
+x1 = 4 ni; R1 = 0,5 ni; x2 = 6 R2 = 0,3 ni vax3 ni R3 extimoli bilan M [x] = 8 ni bilgan xolda x3 ni R3 ni toping?
++ 21 va 0,2;
+- 18 va 0,2;
+- 14 va 0,3
+- 20 va 0,3;
+
+? X diskret tasodifiy mikdor X	-2	4	6
+R	0,3 0,2 0,5
+
+Taksimot konuni bilan berilgan M[x 2 ] ni xisoblang
++ 22,4;
+- 12,16;
+- 3,2;
+- 21,2;
+
+
+? Agar A xodisani ruy berish extimoli R ga teng bulsa u xolda A xodisaning bitta sinovda ruy berish soni x diskret tasodifiy mikdorning urtacha kvadratik chetlanishini toping?
++ ?pq;
+-	q;
+-	pq;
+-	p;
+
+? Xodisaning extimoli uchun kuyidagilardan kaysi biri notugri
++ p(A + A) = 0;
+- 0 ? p(A) ? 1;
+- p(A) = m/n;
+-	p(E)=1; E mukarrar xodisa
+
+
+
+
+? Erkli xodisalar extimollarini kupaytirish teoremasi uchun kuyidagi formuladan kaysi biri urinli.
++ R( AV) = R( A) * R(V);
+- R(V) = R( AV) + R( A);
+- (AV) = R( A) / R(V);
+- r( AV) = R( A) + R(V);
+
+? Diskret tasodifiy mikdor uchun kuyidagi formulalardan kaysi biri notugri.
++ P[X]=(M[X])2 –M[X2]
+- P[X]=M[X2]- (M[X])2;
+- M[X]=X1P1 + X2P2 + … + Xn Pn;
+- G[x]=(P[x])1/2;
+
+? Diskrit tasodifiy mikdor sonlixarakteristikalari uchun kuydagi xossalardan kaysi biri notugri.
++ D(C)=C;
+- M[X1+X2]= M[X1]+ M[X2];
+- M[X1*X2]= M[X1]* M[X2];
+- M[C]=C;
+
+?  Kuyidagi  taksimot  konuni  bilan  berilgan  diskret  tasodifiy  mikdorning
+ 
+matematik kutilishini toping?
++ 2
+- 3
+- 2,6
+- 3,1
+
+? Kuyidagi formulalardan kaysi biri xodisaning nisbiy chastotasini	ifodalaydi?
++ W(A) = m / n;
+- W(A) = m-1 / n;
+- W(A) = m / n+1 ;
+- W(A) = m+1 / n+1;
+
+? Nishonga karata 24 ta uk uzildi, bunda 19 tasi	nishonga tekkanligi kayd kilindi. Nishonga tegish nisbiy chastotasini toping.
++ W ( A) = 19/24;
+- W ( A) = 18/23;
+- W ( A) = 17/21;
+- W ( A) = 20/25;
+
+
+? Kuyidagilardan kaysi biri x diskret tasodifiy mikdorni dispersiyasini ifodalaydi?
++ D(x) = M (x2) – [M(x)]2;
+- D(x) = M (x) - M(x2);
+- D(x) = M (x2) - M(x);
+- D(x) = M [(x)]2 - M(x);
+
+? X tasodifiy mikdorning xar birida xodisaning ruy berish extimoli 0,6 ga teng bulgan 100 ta erkli sinashda xodisaning ruy berish sonining matematik kutilishini toping.
++ 60;
+- 70;
+- 40;
+- 24;
+
+? Ikki xodisa birgalikda deyiladi, agar
++ birining ruy berishi ikkinchisining ruy berishining  nikor etmasa;
+-	Ikkalasi xam ruy bermasa;
+-	Birining ruy berishidan ikkinsining ruy berishi kelib chiksa;
+-	Fakat bittasi ruy bersa
+
+? Ikkita  xodisaning yigindisi deb:
++ xodisalarning birgalikda ruy berishidan
+-	xodisalarning kamida bittasining ruy berishidan
+-	xodisalarning biri ruy berganda ikkinchisining ruy berishidan
+-	xodisalar ruy bermasligidan
+
+? Ikki xodisa birgalikda emas deyiladi, agar bir sinovda:
++ birining ruy berishi ikkinchisining ruy berishini inkor etsa
+-	ularning birini ruy berishi ikkinchisining ruy berishini inkor etmasa
+-	fakat bittasi ruy bersa
+-	ikkalasi xam ruy bermasa
+
+? Ikki xodisaning kupaytmasi deb, xodisalarning
++ birgalikda ruy bermasligidan iborat
+-	bittasining ruy berishidan
+-	ikkalasining xam ruy bermasligidan
+ 
+-	birgalikda ruy berishidan
+
+? Ikkita uyin sokkasi tashlangan. Sokkalarning yoklarida tushgan ochkolar yigindisi 7 ga teng bulish extimolini toping
++ 1/6;
+- 7/36;
+- 1/36;
+- 1/18;
+
+
+
+? Tanga ikki marta tashlangan xech bulmaganda bir marta «Gerbli» tomon tushish extimolini toping?
++ 3/4;
+- 4/5;
+- 1/36;
+- 1/18;
+
+
+? Abonent, telefon nomerini terayotib nomerning oxirgi uch rakamini eslay olmadi va bu rakamlar turli ekanligini bilgani xolda ularni tavakkaliga terdi. Kerakli rakamlar terilgan bulish extimolini toping?
++ 1/720;
+- 3/740;
+- 1/360;
+- 1/180;
+
+? Avariya yuz berganligi xakida signal berish uchun ikkiga erkli ishlaydigan signalizator urnatilgan. Avariya yuz berganda signalizator ishlay boshlash extimoli birinchisi uchun 0,95 ga, ikkinchisi uchun 0,9 ga teng. avariya yuz berganda fakat bitta signalizator ishlay boshlash extimolini toping.
++ 0,14;
+- 0,16;
+- 0,18;
+- 0,19
+
+? Merganning bitta uk uzishda nishonga tekkizish extimoli 0,8 ga teng. Bitta xam uk xato ketmasligini 0,4 dan kichik extimol bilan kutish mumkin bulishi uchun mergan nechta uk uzishi kerak?
++ 5 dan katta;
+- 4;
+- 2;
+- 3;
+
+? Birinchi idishda 10 ta shar bulib. Ularning 8 tasi ok; ikkinchi idishda 20 ta shar bulib, ularning 4 tasi ok. xar bir idishdan tavakkaliga bittadan shar olinib, keyin bu ikki shardan yana batta shar tavakkaliga olindi. Ok shar olinganlik extimolini toping.
++ 0,5;
+- 0,6;
+- 0,7;
+- 0,4;
+
+? Asbobning bir-biridan erkli ishlaydigan lampasidan ikkitasi ishdan chikdi. Agar birinchi, ikkinchi, uchinchi va turtinchi lampalarning ishdan chikish extimollari mos ravishda r1   0,1; r2   0,2; r3   0,3; va r4   0,4 ga teng bulsa, birinchi va ikkinchi lampalarning ishdan chikanlik extimolini toping?
+ 
++ 0,039
+- 0,035
+- 0,041
+- 0,037
+
+? A xodisa kamida turt marta ruy berganda V xodisasi ruy beradi. Agar xar birida A xodisaning ruy berish extimoli o,8 ga teng bulsa 5 ta erkli sinov utkaziladigan bulsa V xodisani ruy berish extimolini toping.
++ 0,74;
+- 0,71;
+- 0,75;
+- 0,68;
+
+? Xodisaning 900 ta erkli sinovning xar birida ruy berish extimoli 0.5 ga teng. shunday  musbat sonni topingki, xodisa ruy berish nisbiy chastotasini uning extimoli 0,5 dan chetlanishining absolyut kattaligi dan katta bulmasligini 0,7698 extimol bilan kutish mumkin bulsin.
++ 0,02;
+- 0.04;
+- 0,03;
+- 0,06;
+
+? Agar buyumlar partiyasida kamida bitta yaroksiz buyum bulish extimoli 0,95 ga teng bulsa, bu partiyadagi yaroksiz buyumlarning urtacha soni	ni toping.
++ 3;
+- 4;
+- 5;
+- 2;
+
+
+? X -5	2	3	4
+R	0,4 0,3 0,1 0,2
+Taksimot konuni bilan berilgan X diskret tasodifiy mikdorning matematik kutilishini toping?
++ -0,3;
+- 0,6;
+- -0,6;
+- 0,2;
+
+
+? X -5	2	3	4
+R	0,4 0,3 0,1 0,2
+Ushbu
+Taksimot konuni bilan berilgan X diskret tasodifiy mikdorning dispersiyasini toping?
++ 15,21;
+- 14,16;
+- 16,1;
+- 12,8;
+
+
+? X -5	2	3	4
+R	0,4 0,3 0,1 0,2
+Ushbu
+Taksimot konuni bilan berilgan X diskret tasodifiy mikdorning urta kvadratik chetlanishini toping?
++ 3,9;
+ 
+- 4,1;
+- 4,3;
+- 3,7;
+
+
+? R(?X - M(X)? < ?) ? 0,9	va D(X) = 0,009	berilgan. Chebishev tengsizligidan foydalanib,	ni toping?
++ 0,3;
+- 0,2;
+- 0,4;
+- 0,1;
+
+? Talaba uziga kerakli formulani 3 ta darslikdan izlamokda. Formulaning birinchi  ikkinsi va uchinchi  darslikda bulish extimoli mos  ravishda 0,6 ; 0,7; 0,8 ga teng.formula uchala darslikda bulish extimolini toping?
++ 0,336;
+- 0,46;
+- 0,53;
+- 0,188;
+
+
+? Xaltada	10 ta detal	bulib, ular orasida 6 tasi buyalgan. Yiguvchi tavakkaliga olgan 4 ta detaldan xammasi buyalgan bulish extimolini toping?
++ 1/14;
+- 3/5;
+- 2/5;
+- 2/3;
+
+
+? Mergan uk otish kurolidan uk uzmokda 4 ta uk uzishda kamida 1 ta ukning nishonga tegish extimoli 0,9984 ga  teng 1 uk uzishda nishonga tegish extimolini toping?
++ 0,8;
+- 0,4;
+- 0,6;
+- 0,2;
+
+? Ovga chikkan uch mergan bir yula uk uzishdi bunda 2 uk nishonga tegdi. Agar birinchi, 2 chi va 3 chi merganlarning nishonga tekkizganlik extimolini toping?
++ 7/9
+- 1/2
+- 8/13
+- 10/19
+
+
+? Bir korxonada maxsulotlar sifati uchun sinovlar utkazilmokda agar 1 ta sinovda A xodisaning ruy berish extimoli 0,4 ga teng bulsa u xolda 4 ta erkli xodisaning kamida 3 marta ruy berish extimoli toping?
++ 0,1792;
+- 0,52;
+- 0,1678;
+- 0,5;
+
+
+? Talaba dasturdagi 25 ta savoldan 20 tasini biladi. Talabaning imtixon oluvchi taklif etgan uchta savolni bilish extimolini toping?
++ 57/115
+- 59/120
+ 
+- 61/118
+- 57/117
+
+? X uzluksiz tasodifiy mikdorning differensial funksiyasi butun Ox ukda	f(x) = 2C / 1+ x2	tenglik bilan berilgan. S uzgarmas parametrni toping.
++ 1/2?;
+- 2?;
+- ?;
+- 3?;
+
+? X uzluksiz tasodifiy mikdorning differensial funksiyasi 0, ?/2 intervalda f(x) = Csin2x	ga teng; bu intervaldan tashkarida 0 ga teng. S uzgarmas parametrni toping?
++ 1;
+- 3:
+- 2;
+- 4;
+
+? Normal taksimlangan X tasodifiy mikdor  f(x) = 1*ye-(x-1)2 / 50 / 5?2? differensial funksiya bilan berilgan. X ning matematik kutilishini toping.
++ 1:
+- 3;
+- 4;
+- 2;
+
+? Normal taksimlangan X tasodifiy mikdor	f(x) = 1*ye-(x-1)2/50 / 5?2? differensial funksiya bilan berilgan. X ning dispersiyasini toping.
++ 25;
+- 23;
+- 21:
+- 19;
+
+
+
+
+
+? Normal taksimlangan X tasodifiy mikdorning matematik kutilishi va urta kvadratik chetlanishi mos ravishda 20 va 5 ga teng. Sinov natijasida X ning (15,25) intervalda yotadigan kiymat kabul kilish extimolini toping.
++ 0.6826
+- 0.6901
+- 0.6820
+- 0.6519
+
+? Ulchashning tasodifiy xatolari urtacha kvadratik chetlanishi 20 mm ga va matematik kutilishi 0 ga teng bulgan normal konunga buysunadi. 3 ta erkli ulchashdan kamida bittasining xatosi absolyut kiymati buyicha 4 mm dan ortik bulmaslik extimolini toping.
++ 0,41:
+- 0,43;
+- 0,39;
+- 0,42;
+
+? X tasodifiy mikdor a = 25 matematik kutilish bilan normal taksimlangan. X ning (10, 15) intervalga tushish extimoli 0,2 ga teng. Xning (35, 40) intervalga tushish extimoli nimaga teng?
++ 0.2
+- 0.3
+ 
+- 0.1
+- 0.5
+
+? f(x) = 10e-10x(x ? 0)	differensial funksiya bilan berilgan kursatkichli taksimotning dispersiyasini toping?
++ 0,01:
+- 0,03;
+- 0,02;
+- 0,04;
+
+? f(x) = 10e-10x(x ? 0)	differensial funksiya	bilan	berilgan kursatkichli
+taksimotning urtacha kvadratik chetlanishini toping?
++ 0.1
+- 0.5
+- 0.2
+- 0.4
+
+? f(x) = 1 - e-0,4x(x ? 0) integral funksiya bilan berilgan kursatkichli taksimotning dispersiyasini toping?
++ 6.25
+- 6.6
+- 6.5
+- 6.4
+
+? f(x) = 1 - e-0,4x(x ? 0) integral funksiya bilan berilgan kursatkichli taksimotning urta kvadratik chetlanishini toping?
++ 2.5
+- 2.6
+- 2.7
+- 2.8
+
+? f(x) = 5 * e-5k(x ? 0)	differensial	funksiya bilan berilgan	kursatkichli taksimotning matematik kutilishini toping?
++ 0,2;
+- 0,3:
+- 0,1;
+- 0,27;
+
+? f(x) = 1 - e-0,1x(x ? 0)	integral funksiya	bilan berilgan kursatkichli taksimotning matematik kutilishini toping?
++ 10;
+- 12;
+- 15:
+- 11:
+
+? Bosh tuplamdan n=50 xajmli tanlanma olingan Varianta	2	5	7	10
+chastota	16  12  8	14
+Bosh urtacha kiymatning siljimagan baxosini toping.
++ 5,76;
+- 5,8:
+- 5,7;
+- 5,9;
+
+? . n=10 xajmli tanlanmaning berilgan taksimoti buyicha Varianta	1250	1270	1280
+ 
+chastota	2	5	3
+
+?Urtacha tanlanma kiymatini toping
++ 1269
+- 1270
+- 1273
+- 1265
+
+? n=50 xajmli tanlanmaning berilgan taksimoti buyicha Varianta	0.1 0.5 0.6 0.8
+chastota	5	15 20 10 Tanlanma dispersiyani toping
++ 0.32
+- 0.5
+- 0.41
+- 0.4
+
+? n=100 xajmli tanlanmaning berilgan taksimoti buyicha Varianta	340 360 375 380
+chastota	20 50 18 12 Tanlanma dispersiyani toping
++ 167.29
+- 166.29
+- 168.1
+
+? n=100 xajmli tanlanmaning berilgan taksimoti buyicha
+Varianta	1250	1275	1280	1300
+chastota	20  25  50  5
+Tuzatilgan tanlanma dispersiyani toping
++ 170,42;
+- 170,43:
+- 169,1;
+- 171,7;
+
+? n=10 xajmli tanlanmaning berilgan taksimoti buyicha Varianta	0,010,050,09
+Chastota	2	3	5
+Tuzatilgan tanlanma dispersiyani toping
++ 0,0085;
+- 0,0083;
+- 0,0084:
+- 0,0088;
+
+? n=20 xajmli tanlanmaning berilgan taksimoti buyicha Varianta	0.1 0.5 0.7 0.9
+chastota	6	12  1	1
+Tuzatilgan tanlanma dispersiyani toping
++ 0.0525
+- 0.0521
+- 0.0527
+- 0.0528
+
+? Tanlanmaning shunday minimal kiymatini topingki, normal taksimlangan bosh tuplam matematik kutilishining tanlanma urtacha kiymat buyicha baxosining anikligi 0,925 ishonchlilik bilan 0,2 ga teng bulsin. Bosh tuplamning urtacha kvadratik chetlanishi 1,5 ga teng.
++ 179;
+ 
+- 178:
+- 180;
+- 177;
+
+? X diskret tasodifiy mikdor X	1	3	5
+R	0,2 0,5 0,3
+taksimot bilan berilgan.	Y = X2 + 1	funksiyaning matematik
+kutilishini toping
+
++ 13,2:
+- 13,1;
+- 13,5;
+- 13,8;
+
+? Uzluksiz X tasodifiy mikdor kursatkichli konun buyicha taksimlangan: x ? 0da  da f(x) = 5e-5x, x < 0 da f(x) = 0. Sinash natijasida X ning (0,4; + intervalga tushish extimolini toping.
++ 0,12:
+- 0,13;
+- 0,18;
+- 0,17;
+
+? Uzluksiz X tasodifiy mikdor	kursatkichli konun buyicha taksimlangan: X ning matematik kutilishini toping.
++ 0,25:
+- 0,23;
+- 0,28;
+- 0,27;
+
+? Uzluksiz X tasodifiy mikdor	kursatkichli konun buyicha taksimlangan: X ning dispersiyasini toping.
++ 0,0625;
+- 0,0624;
+- 0,0623:
+- 0,0626;
+
+? Uzluksiz X tasodifiy mikdor	kursatkichli konun buyicha taksimlangan: X ning urta kvadratik chetlanishini toping.
++ 0,25;
+- 0,23;
+- 0,28;
+- 0,27:
+
+? Elementning buzilmasdan ishlash vakti	kursatkichli konun buyicha taksimlangan. Elementning 100 soat betuxtov ishlash extimolini toping.
++ 0,37:
+- 0,34;
+- 0,38;
+- 0,35;
+
+? Bosh tuplam kuyidagi taksimot jadvali bilan berilgan: Varianta	2	4	5	6
+chastota	8	9	10 13 bosh dispersiyani toping
++ 1.8
+- 1.5
+ 
+- 1.7
+- 1.6
+
+? Agar	M(X)=0,8 bulsa, X tasodifiy mikdor ittita erkli sinovlarda A xodisasining ruy berish sonining dispersiyasini toping.
++ 0,48:
+- 0,50;
+- 0,47;
+- 0,49;
+
+? X tasodifiy mikdorning xar birida xodisaning ruy berish extimoli 0,7 ga teng bulgan 100ta erkli sinashda xodisaning ruy berish sonining dispersiyasini toping.
++ 21;
+- 28:
+- 24;
+- 29;
+
+? X tasodifiy mikdorning xar birida xodisaning ruy berish extimoli 0,7 ga teng bulgan 100ta erkli sinashda xodisaning ruy berish sonining matematik kutilishini toping.
++ 70
+- 21
+- 30
+- 19
+
+? Agar D(X)=0,001 bulsa,	ning extimolini Chebishev tengsizligi buyicha baxolang.
++ 0,9dan katta yoki teng;
+- 0,7;
+- 0,6;
+- 0,8:
+
+? Birgalikda bulmagan 3 ta xodisaning kamida bittasini ruy berish extimolligi 0,936 ga teng. Xodisaning bitta sinovda ruy berish extimolini toping.
++ 0,4;
+- 0,7;
+- 0,6:
+- 0,9;
+
+? Viloyat televizion stansiyasida z ta televizion kamera bor. Xar bir kameraning istalgan paytda ishlab turish extimoli 0,6 ga teng. Xoxlagan paytda kamida bitta kameraning ishlab turgan bulishi extimolini toping.
++ 0,936;
+- 0,938:
+- 0,937;
+- 0,919;
+
+? Agar xar bir sinashda A xodisaning ruy berish extimoli 0,2 ga teng bulsa, 400 ta sinashda bu xodisaning rosa 80 marta ruy berish extimolini toping. F(0)=0.3989
++ 0,0498;
+- 0,0496;
+- 0,0499;
+- 0,0497:
+
+? Detalning texnikaviy nazorat bulimi tekshirmagan bulishi extimoli 0,2. Tasodifan olingan 400 ta detaldan 70 tadan 100 tagachasini nazorat bulimi tekshirmagan bulishi extimolini toping.
++ 0,8882;
+ 
+- 0,8885:
+- 0,8899;
+- 0,8898;
+
+? Tukuvchi 1000 dastgoxda ishlaydi. Bir minut davomida bitta dastgoxda ip uzilish extimolini toping.
++ 0.1497
+- 0.496
+- 0.1499
+- 0.1562
+
+? Kuyidagi taksimot konuni bilan berilgan X tasodifiy mikdorning matematik kutilishini toping.
+X	2	3	5 R
+0,1 0,6 0,3
++ 3,5:
+- 3,4;
+- 3,9;
+- 3,8;
+
+? Albatta ro‘y beradigan hodisa quyidagicha ataladi
++ muqarrar hodisa
+-	tasodifiy hodisa
+-	mumkin bo‘lmagan hodisa
+-	hamma javob noto‘g‘ri
+
+? Mutlaqo ro‘y bermaydigan hodisa quyidagicha ataladi
++ mumkin bo‘lmagan hodisa
+-	muqarrar hodisa
+-	tasodifiy hodisa
+-	hamma javob noto‘g‘ri
+
+? Ro‘y berishi ham, ro‘y bermasligi ham mumkin bo‘lgan hodisa quyidagicha ataladi :
++ tasodifiy hodisa
+-	mumkin bo‘lmagan hodisa
+-	muqarrar hodisa
+-	hamma javob noto‘g‘ri
+
+? Elementar hodisalar fazosi uchun quyidagi shart bajariladi:
+a) eksperiment amalga oshirilishi natijasida	elementar hodisalarning bittasi doimo sodir bo‘ladi
+@v) a) va s) shartlarning ikkalasi ham bajariladi
+s) bitta sinovda faqat bitta	elementar hodisa sodir bo‘ladi d) a) va s) shartlarning birortasi ham bajarilmaydi
++ a) va  s)
+-	a) va s) shartlarning birortasi ham bajarilmaydi
+-	a)
+-	b)
+
+? Ehtimolligi 1 ga teng bo‘lgan hodisa quyidagidir:
++ muqarrar hodisa
+-	tasodifiy hodisa
+-	mumkin bo‘lmagan hodisa
+-	ixtiyoriy hodisa
+
+? Ehtimolligi 0 ga teng bo‘lgan hodisa quyidagidir:
+ 
++ mumkin bo‘lmagan hodisa
+-	ixtiyoriy hodisa
+-	muqarrar hodisa
+-	tasodifiy hodisa
+
+? Ehtimolligi 0 bilan 1 orasidagi musbat son bo‘lgan hodisa quyidagidir:
++ tasodifiy hodisa
+-	muqarrar hodisa
+-	mumkin bo‘lmagan hodisa
+-	ixtiyoriy hodisa
+
+? Ehtimolligi 1 dan oshmaydigan nomanfiy son bo‘lgan hodisa quyidagidir:
++ ixtiyoriy hodisa
+-	muqarrar hodisa
+-	tasodifiy hodisa
+-	mumkin bo‘lmagan hodisa
+
+? Tanga ikki marta tashlangan. Hech bo‘lmaganda bir marta «gerb» tomonining tushish ehtimolligi quyidagicha:
++ 0,75
+- 0,25
+- 0,5
+-	hamma javob
+
+? Tanga ikki marta tashlangan. Ko‘pi bilan bir marta «raqam» tomonining tushish ehtimolligi quyidagicha:
++ 0,5
+- 0,25
+- 0,75
+-	xamma javob
+
+? Hodisaning nisbiy chastotasini hisoblash uchun:
++ sinovlar aslida o‘tkazilganligi talab qilinib, hodisaning ro‘y berishlar soni talab qilinadi
+-	sinovlar haqiqatan o‘tkazilganligi talab qilinmaydi
+-	sinovlar aslida o‘tkazilganligi talab qilinib, hodisaning ro‘y berishlar soni talab qilinmaydi
+-	hamma javob noto‘g‘ri
+
+? Nishonga qarata 70 ta o‘q uzilgan, shundan 56 ta o‘q nishonga tekkani qayd etilgan. Nishonga tegishlar nisbiy chastotasi quyidagicha:
++ 0,8
+- 0,75
+- 0,5
+- 0,25
+
+? Soliq inspeksiyasi tasodifiy tanlangan do‘konlarda aniqlagan savdo qoidalari buzilishinining nisbiy chastotasi 0,35 ga teng. Jami 140 ta do‘kon tekshirilgan holda savdo qoidalari buzilgan do‘konlar soni quyidagicha:
++ 49
+- 50
+- 45
+-	hamma javob noto‘g‘ri
+
+? Bir yil davomida obyektlarning birida o‘tkazilgan tekshiruvlarda qayd etilgan qonunchilikning buzilishlarining soni 60 ga, nisbiy chastotasi esa 0,25 ga tengdir. Jami tekshiruvlar soni quyidagicha:
+ 
++ 240
+- 200
+- 15
+- 24
+
+? Tekislik yoki fazodagi qandaydir bir soha va uning qism to‘plamining o‘lchovi ehtimollikning quyidagi ta’rifida inobatga olingan:
++ geometrik ta’rifi
+-	klassik ta’rifi
+-	statistik ta’rifi
+-	hamma javob to‘g‘ri
+
+? A va V hodisalar-ning yig‘indisi deb quyidagi o‘rinli bo‘lganda va faqat shundagina ro‘y beradigan hodisaga aytila:
++ yo A hodisaning, yo V hodisaning, yo shu ikkala hodisaning ro‘y berishi
+-	A hodisaning ro‘y berishidan V hodisaning ro‘y berishi albatta kelib chiqishi
+-	ham A hodisaning, ham V hodisaning ro‘y berishi
+-	hamma javob to‘g‘ri
+
+? A va V hodisalar-ning ko‘paytmasi deb quyidagi o‘rinli bo‘lganda va faqat shundagina ro‘y beradigan hodisaga aytiladi:
++ ham A hodisaning, ham V hodisaning ro‘y berishi
+-	A hodisa ro‘y berib, V hodisaning ro‘y bermasligi
+-	ham A hodisaning, ham V hodisaning ro‘y berishi
+-	hamma javob to‘g‘ri
+
+? A, V, S tasodifiy hodisalar bo‘lib, A   V   S = A tenglik quyidagini bildiradi:
++ A   V   S
+-	V   S   A
+-	A + V + S = A
+-	V   S   A
+
+? A va V hodisalar bir vaqtning o‘zida ro‘y berishi mumkin bo‘lmasa, ular quyidagicha ataladi:
++	birgalikda bo‘lmagan hodisalar
+-	birgalikda bo‘lgan hodisalar
+-	bog‘liq hodisalar
+-	erkli hodisalar
+
+? A va V hodisalar bir vaqtning o‘zida ro‘y berishi mumkin bo‘lsa, ular quyidagicha ataladi:
++	birgalikda bo‘lgan hodisalar
+-	bog‘liq hodisalar
+-	birgalikda bo‘lmagan hodisalar
+-	erkli hodisalar
+
+? Sexda 7 ta erkak va 6 ta ayol ishlaydi. Tavakkaliga avval bitta xodim, so‘ngra ikkinchi xodim malaka oshirish uchun yuborildi. Birinchi yuborilgan xodim ayol bo‘lsa, ikkinchi yuborilgan xodim erkak ekanligining ehtimolligi quyidagiga teng:
++ 7/12
+- 5/12
+- 1/5
+- 1/12
+
+? Ikkita birgalikda bo‘lmagan A va V hodisalardan birortasining ro‘y berishi ehtimolligi quyidagiga teng :
++ P( A) + P(B)
+ 
+-	P( A) + P(B – P( AB)
+- P( A / B) * P(B)
+- P( A) * P(B)
+
+? Soliq to‘lovchi soliq deklarasiyasini muddatida taqdim etishining ehtimolligi 0,92 ga teng. Deklarasiya kechikib taqdim etilishining ehtimolligi quyidagicha :
++ 0,8
+- 0,18
+- 0,28
+- 0,02
+
+? Soliq to‘lovchi soliq deklarasiyasini muddatida taqdim etishining ehtimolligi 0,94 ga teng. Deklarasiya kechikib taqdim etilishining ehtimolligi quyidagicha :
++	0,06
+- 0,6
+- 0,006
+- 1,6
+
+? Ikkita bog‘liq hodisaning birgalikda ro‘y berishining ehtimolligi	quyidagiga teng:
++ P( A / B) * P(B)
+- P( A) + P(B) - P( AB)
+- P( A) + P(B)
+- P( A) * P(B)
+
+? O‘quv zalida ehtimollar nazariyasidan oltita darslik bor, ulardan uchtasi muqovali. Kutubxonachi tavakkaliga ketma-ket ikkita darslikni olib, ularni ikkita talabaga berdi. Ikkala darslik muqovali bo‘lishining ehtimolligi quyidagiga teng:
++ 1/5
+- 1/4
+- 1/10
+- 0
+
+? O‘quv zalida ehtimollar nazariyasidan yettita darslik bor, ulardan beshtasi muqovali. Kutubxonachi tavakkaliga ketma-ket ikkita darslikni olib, ularni ikkita talabaga berdi. Ikkala darslik muqovali bo‘lishining ehtimolligi quyidagiga teng:
++ 10/21
+- 10/31
+- 1/21
+- 1
+
+? Ikkita erkli hodisaning birgalikda ro‘y berishining ehtimolligi  quyidagiga teng:
++ P( A) * P(B)
+- P( A / B) * P(B)
+- P( A) + P(B)
+- P( A) + P(B) - P( AB)
+
+? Tanga va shashqoltosh tashlandi. «Gerbli tomon tushdi» va «6 ochko chiqdi» hodisalarning birgalikda ro‘y berishining ehtimolligi quyidagicha:
++ 1/12
+- 1/6
+- 1/13
+- 1
+
+? Tanga va shashqoltosh tashlandi. «Raqamli tomon tushdi» va «toq ochko chiqdi» hodisalarning birgalikda ro‘y berishining ehtimolligi quyidagicha:
+ 
++ 1/4
+- 1/2
+- 1/3
+- 4
+
+? Ikkita birgalikda bo‘lgan A va V hodisalardan kamida bittasining ro‘y berishi ehtimolligi quyidagiga teng:
++ P( A) + P(B) - P( AB)
+- P( A / B) * P(B)
+- P( A) + P(B)
+- P( A) * P(B)
+
+? Ikkita mergan bittadan o‘q uzishdi. 1-merganning nishonga tekkizish ehtimolligi 0,8 ga, 2-merganniki esa 0,7 teng. Hech bo‘lmaganda bitta merganning nishonga tekkizish ehtimolligi quyidagicha:
++ 0,94
+- 0,75
+- 1,5
+- 0,56
+
+? Ikkita mergan bittadan o‘q uzishdi. 1-merganning nishonga tekkizish ehtimolligi 0,7 ga, 2-merganniki esa 0,6 ga teng. Hech bo‘lmaganda bitta merganning nishonga tekkizish ehtimolligi quyidagicha:
++ 0,88
+- 0,85
+- 0,08
+- 0.6
+
+? Merganning uchta o‘q uzishda kamida bitta o‘qni nishonga tekkizish ehtimolligi 0,973 ga teng. Uning bitta o‘q uzishda nishonga tekkizish ehtimolligi quyidagicha:
++ 0,7
+- 0,6
+- 0,74
+- 0,62
+
+? Merganning to‘rtta o‘q uzishda kamida bitta o‘qni nishonga tekkizish ehtimolligi 0,9984 ga teng. Uning bitta o‘q uzishda nishonga tekkizish ehtimolligi quyidagicha
++ 0,8
+- 0,6
+- 0,2
+- 0,9
+
+? Hodisalarning to‘la gruppasi	uchun quyidagi shart bajariladi :
++a) va d) shartlarning birortasi ham bajarilmaydi
+-	a) va v) bajariladi
+-	a) va d) shartlarning ikkalasi ham bajariladi
+-	bajariladi
+
+
+? 1-qutida 10 ta shar bo‘lib, ulardan 8 tasi oq; 2-qutidagi 20 ta shardan 4 tasi oq. Tavakkaliga tanlangan qutidan tavakkaliga olingan sharning oq bo‘lishining ehtimolligi quyidagicha:
++ 0,5
+- 0,6
+- 0,2
+- 0,7
+ 
+? 1-qutida 25 ta shar bo‘lib, ulardan 10 tasi oq; 2-qutidagi 15 ta shardan 9 tasi oq. Tavakkaliga tanlangan qutidan tavakkaliga olingan sharning oq bo‘lishining ehtimolligi quyidagicha :
++ 0,5
+- 0,1
+- 0,3
+- 0,6
+
+? Korxonaning 1-sexida jami mahsulotning 20 %i, 2-sexida 30 %i va 3-sexida 50 %i ishlab chiqariladi. 1-, 2- va 3-sexlarda yaroqli mahsulot ishlab chiqarilishining ehtimolliklari mos ravishda 0,95, 0,98 va 0,97 ga teng. Korxonaning tavakkaliga olingan mahsuloti yaroqsiz bo‘lib chiqdi. Bu mahsulot 2-sexda ishlab chiqarilganligining ehtimolligi quyidagicha :
++ 6/31
+- 7/31
+- 1/31
+- 2/31
+
+? Korxonaning 1-sexida jami mahsulotning 30 %i, 2-sexida 60 %i va 3-sexida 10 %i ishlab chiqariladi. 1-, 2- va 3-sexlarda yaroqli mahsulot ishlab chiqarilishining ehtimolliklari mos ravishda 0,96, 0,93 va 0,94 ga teng. Korxonaning tavakkaliga olingan mahsuloti yaroqsiz bo‘lib chiqdi. Bu mahsulot 1-sexda ishlab chiqarilganligining ehtimolligi quyidagicha :
++ 0,2
+- 0,7
+- 0,5
+- 0,1
+
+? Tanga besh marta tashlangan. «Gerb» tomonining ikki martadan kam tushishining ehtimolligi quyidagicha:
++ 3/16
+- 1/16
+- 5/16
+- 3/8
+
+? Tanga to‘rt marta tashlangan. «Gerb» tomonining ikki martadan kam tushishining ehtimolligi quyidagicha:
++ 5/16
+- 1/16
+- 5/32
+- 3/16
+
+? Laplasning lokal teoremasi sinovlar soni yetarlicha katta bo‘lganda quyidagining o‘rniga qo‘llaniladi:
++ Bernulli formulasi
+-	Puasson formulasi
+-	Bayes formulasi
+-	To‘la ehtimollik formulasi
+
+? n ta sinovda A hodisaning	dan	martagacha ro‘y berishining ehtimolligi quyidagi yordamida eng oson hisoblanadi:
++ Laplasning lokal teoremasi
+-	Laplasning integral teoremasi
+-	Bayes formulasi
+-	To‘la ehtimollik formulasi
+
+? Agar A hodisaning 2400 ta erkli sinov-larning har birida ro‘y berishining
+ 
+ehtimolligi o‘zgar-mas va 0,6 ga teng bo‘lsa, bu hodisa-ning 1400 marta ro‘y berishining ehtimolligi quyidagicha	( ; ; ):
++ 0,0041
+- 0,041
+- 0,003
+- 0,0031
+
+? Hodisaning 100 ta erkli sinovlarning har birida ro‘y beri-shining ehtimol-ligi o‘zgarmas va 0,8 ga teng. Hodisa kamida 75 marta va ko‘pi bilan 90 marta ro‘y berishining ehtimol-ligi quyidagicha	( ; ): .
++ 0,8882
+- 0,8865
+- 0,7771
+- 0,5551
+
+? Diskret tasodifiy miqdorning taqsimot qonunini berish uchun quyidagi zarur:
++ hamma javob to‘g‘ri
+-	mumkin bo‘lgan qiymatlar bilan ehtimolliklar orasidagi moslik
+-	mumkin bo‘lgan qiymatlarning ehtimolliklari
+-	diskret tasodifiy miqdorning mumkin bo‘lgan qiymatlari
+
+
+? Qurilma bir-biridan erkli ishlaydigan uchta elementdan iborat. Har bir elementning bitta tajribada ishdan chiqishining ehtimolligi 0,1 ga teng. Bitta tajribada ishdan chiqqan elementlar soninng taqsimot qonuni quyidagicha:
++
+X	0	1	2	3
+r	0,729	0,243	0,027	0,001
+- X	
+0	1	
+2	3		
+r	0,654	0,243	0,027	0,014
+- X	
+0	1	
+2	3		
+r	0,729	0,331	0,045	0,001
+- X	
+0	1	
+2	3		
+r	0,881	0,243	0,010,224
+
+
+? Merganning bitta o‘q uzishda nishonga tekkizish ehtimolligi 0,8 ga teng. Mergan birinchi marta tekkizguncha o‘q uzmoqda. Nishonga tegish bir qancha o‘q uzishlardan keyin sodir bo‘ldi va bu hodisaninng ehtimolligi 0,0064 ga teng. Amaldagi o‘q uzishlar soni quyidagicha:
++ 4
+- 5
+- 3
+- 2
+
+? Merganning bitta o‘q uzishda nishonga tekkizish ehtimolligi 0,7 ga teng. Mergan birinchi marta tekkizguncha o‘q uzmoqda. Nishonga tegish bir qancha o‘q uzishlardan keyin sodir bo‘ldi va bu hodisaninng ehtimolligi 0,063 ga teng. Amaldagi o‘q uzishlar soni quyidagicha:
++ 3
+- 4
+ 
+- 5
+- 2
+
+? Puasson taqsimotidan foydalanish quyidagi holda maqsadga muvofiqdir:
++ sinovlar soni ancha katta va hodisaning ehtimolligi kichik
+-	sinovlar soni ancha katta va hodisaning ehtimolligi uncha kichik emas
+-	hamma javob noto‘g‘ri
+-	sinovlar soni katta emas
+
+? Zavod bazaga 500 ta buyum jo‘natdi. Agar yo‘lda buyumning shikastlanishi ehtimolligi 0,002 ga teng bo‘lsa, u holda yo‘lda kamida bitta buyumning shikastlanishi ehtimolligi quyidagicha:
++ 0,632
+- 0,006
+- 0,561
+- 0,005
+
+? Zavod bazaga 1000 ta buyum jo‘natdi. Agar yo‘lda buyumning shikastlanishi ehtimolligi 0,001 ga teng bo‘lsa, u holda yo‘lda kamida bitta buyumning shikastlanishi ehtimolligi quyidagicha :
++ 0,632
+- 0,544
+- 0,677
+- 0,566
+
+? Ikkita erkli tasodifiy miqdor yig‘indisining matematik kutilmasi quyidagiga teng:
++ M ( X ) + M (Y )
+- M ( X ) - M (Y )
+- M ( X ) * M (Y )
+- M ( X ) / M (Y )
+
+? Ikkita erkli tasodifiy miqdor ayirmasining matematik kutilmasi quyidagiga teng:
++ M ( X ) - M (Y )
+- M ( X ) / M (Y )
+- M ( X ) + M (Y )
+- M ( X ) * M (Y )
+
+? X tasodifiy miqdor A hodisaning ikkita erkli sinovda ro‘y berishlar soni bo‘lsin. Agar bu sinovlarda hodisaning ro‘y berish ehtimolliklari bir xil bo‘lib, ekanligi ma’lum bo‘lsa, u holda X tasodifiy miqdorning dispersiyasi quyidagiga teng:
++ 0,48
+- 0,40
+- 0,34
+- 0,204
+
+? X tasodifiy miqdor A hodisaning uchta erkli sinovda ro‘y berishlar soni bo‘lsin. Agar bu sinovlarda hodisaning ro‘y berish ehtimolliklari bir xil bo‘lib, ekanligi ma’lum bo‘lsa, u holda X tasodifiy miqdorning dispersiyasi quyidagiga teng :
++ 0,48
+- 0,58
+- 0,64
+- 0,38
+
+? X tasodifiy miqdor quyidagi taqsimot qonuni bilan berilgan
+-5	2	3	4
+ 
+0,4 0,3 0,1 0,2
+Bu miqdorning o‘rtacha kvadratik chetlanishi quyidagiga teng:
++ hamma javob noto‘g‘ri
+- 4,2
+- 1,5
+- 2,82
+
+? Diskret tasodifiy miqdorni quyidagi sonli tavsif eng to‘laligicha tavsiflaydi:
++ matematik kutilma, dispersiya va o‘rtacha kvadratik chetlanish
+-	dispersiya
+-	matematik kutilma
+-	o‘rtacha kvadratik chetlanish
+
+? ehtimollik X tasodifiy miqdor uchun quyidagini bildiradi:
++ taqsimot funksiyasi
+-	integral funksiya
+-	zichlik funksiyasi
+-	lokal funksiya
+
+? Diskret tasodifiy miqdorda quyidagi mavjud emas:
++ zichlik funksiyasi
+-	taqsimot funksiyasi
+-	integral funksiya
+-	lokal funksiya
+
+? X tasodifiy miqdorning zichlik funksiyasi berilgan: da 0, da , da 0. Sinov natijasida X tasodifiy miqdor intervalga tegishli qiymatni qabul qilishining ehtimolligi quyidagicha :
++ 0,875
+- 0,675
+- 0,80
+- 0,60
+
+? X tasodifiy miqdorning zichlik funksiyasi berilgan: da 0, da , da 0. Sinov natijasida X tasodifiy miqdor intervalga tegishli qiymatni qabul qilishining ehtimolligi quyidagicha :
++ 0,75
+- 0,88
+- 0,65
+- 0,01
+
+? Quyidagi o‘rinli emas:
++ ( ; ) da zichlik funksiyasi - kamaymaydigan funksiya
+-	zichlik funksiyasi - nomanfiy funksiya
+-	zichlik funksiyasi - taqsimot funksiyasidan olingan birinchi tartibli hosila
+-	zichlik funksiyasidan	dan	gacha olingan xosmas integral birga teng
+
+? X tasodifiy miqdorning taqsimot funksiyasi berilgan: tasodifiy miqdorning dispersiyasi quyidagiga teng:
++ 3/80	da 0,	da	,	da 1. Shu
+- 5/80			
+- 3/70			
+- 3/5			
+? X tasodifiy miqdorning taqsimot funksiyasi berilgan: tasodifiy miqdorning dispersiyasi quyidagiga teng :
++ 2/9	da 0,	da	,	da 1. Shu
+ 
+- 2/7
+- 5/9
+- 2/5
+
+
+? X tasodifiy miqdor	zichlik funksiyasi orqali berilgan.	qiymati quyidagiga teng:
++ 1721
+- 1665
+- 178.1
+- 1621
+
+
+? X tasodifiy miqdor	zichlik funksiyasi orqali berilgan.	qiymati quyidagiga teng:
++ 1156
+- 1265
+- 1664
+- 16,64
+
+? Normal taqsimlangan X tasodifiy miqdorning matematik kutilmasi va o‘rtacha kvadratik chetlanishi mos ravishda 20 va 5 ga teng. X ning  intervalga tegishli qiymat qabul qilishining ehtimolligi quyidagiga teng	( ; ):
++ 0,6826
+- 0,6598
+- 0,7456
+- 0,7826
+
+
+? Ko‘rsatkichli qonun bo‘yicha taqsimlangan X tasodifiy miqdorning zichlik funksiyasi berilgan:	da 0,	da . Shu tasodifiy miqdorning dispersiyasi quyidagiga teng:
++ 0,0625
+- 0,6598
+- 0,7456
+- 0,7826
+
+
+? Ko‘rsatkichli qonun bo‘yicha taqsimlangan X tasodifiy miqdorning zichlik funksiyasi berilgan:	da 0,	da . Shu tasodifiy miqdorning dispersiyasi quyidagiga teng:
++ 0,04
+- 0,2
+- 0,1
+- 0
+
+? Quyidagi ixtiyoriy bo‘lishi mumkin:
++ normal taqsimotning	parametri
+-	normal taqsimotning	parametri
+-	ko‘rsatkichli taqsimotning	parametri
+-	Hamma javoblar to‘g‘ri
+
+
+? Tanlanmaning quyidagi taqsimoti berilgan
+
+1	2	5	7	11
+8	13  6	18  15
+Bu tanlanmaning empirik taqsimot funksiyasi 0,75 qiymatga quyidagi oraliqda erishadi:
+ 
++ 7 < x ? 11
+- 2 < x ? 5
+- 1 < x ? 2
+- 5 < x ? 7
+
+? Tanlanmaning quyidagi taqsimoti berilgan
+
+2	3	6	8	12
+11  13  12  14  10
+Bu tanlanmaning empirik taqsimot funksiyasi 0,6 qiymatga quyidagi oraliqda erishadi
++ 6 < x ? 8
+- 2 < x ? 5
+- 1 < x ? 2
+- 5 < x ? 7
+
+? Quyidagi shaklning yuzasi doimo 1 ga tengdir :
++ nisbiy chastotalar gistogrammasi
+-	chastotalar gistogrammasi
+-	nisbiy chastotalar poligoni
+-	chastotalar poligoni
+
+? Statistik bahoning baholanayotgan parametr haqiqiy qiymatiga yaqinligini aniqlaydigan eng muhim xossasi quyidagidir:
++ hamma javob to‘g‘ri
+-	chastotalar gistogrammasi
+-	nisbiy chastotalar poligoni
+-	chastotalar poligoni
+
+? Birinchisi ikkinchisiga siljigan baho bo‘ladigan tavsiflar juftligi quyidagidir:
++ tanlanma dispersiya ? bosh dispersiya
+-	bosh o‘rtacha qiymat ? o‘rtacha tanlanma qiymat
+-	o‘rtacha tanlanma qiymat ? bosh o‘rtacha qiymat
+-	bosh dispersiya ? tanlanma dispersiya
+? Tanlanmaning quyidagi taqsimoti berilgan
+1	2	5	7
+8	14  11  17
+Tanlanma dispersiya quyidagiga teng:
++ 5,8
+- 6,1
+- 0,58
+- 0,61
+
+? Tanlanmaning quyidagi taqsimoti berilgan
+2	3	6	8
+11  14  17  8
+Tanlanma dispersiya quyidagiga teng:
++ 4,72
+- 5,87
+- 6,87
+- 3,21
+
+? Ikkita shashqoltosh tashlanganda ochkolar yig‘indisi 10 dan kam bo‘lmasligi ehtimoli topilsin.
++ 1/6
+- 3/36
+ 
+- 1/18
+- 2/9
+
+
+? Gruppada 17 student bo‘lib, ulardan 8 tasi qizlar. Shu stutendlar orasida 7 ta bilet o‘ynalmoqda. Biletga ega bo‘lganlar orasida 4 ta qiz bo‘lish ehtimoli topilsin.
++ 735/2431
+- 31/2412
+- 2/333
+- 12/324
+
+
+? Qutichada rangidan boshqa hech farq qilmaydigan 10 ta qalam bo‘lib, ulardan 7 tasi qora va 3 tasi qizil. Tavakkaliga olingan qalamning qizil bo‘lish ehtimoli topilsin.
++ 3/10
+- 1/16
+- 2/36
+- 10/9
+
+? 25 ta kishi qatnashayotgan va ulardan 5 tasi ayol bo‘lgan majlisda	3 kishidan iborat delegasiya saylandi. Delegasiyaga 2 ayol va bir erkak kirishi ehtimoli topilsin.
++ 2/23
+- 4/12
+- 5/6
+- 2/10
+
+? Gruppada 12 student bo‘lib, ulardan 8 tasi a’lochi. Gruppadan tavakkaliga 6 kishi olindi. Shularni ichida 4 tasi a’lochi bo‘lish ehtimoli topilsin
++ 5/11
+- 2/23
+- 4/12
+
+? Talaba	programmadagi 30 ta savoldan 20 tasini biladi. Talabaning imtihon oluvchi taklif etgan uchta savoliga javob berish ehtimoli topilsin.
++ 57/203
+- 50/74
+- 42/264
+- 25/114
+
+? r1= 0,5;
++ 2; 0
+- 5; 0
+- 4; 7
+- 1; 0	MX=2;	x1=2;	x2= ?	DX= ?
+? r1= 0,1;
++ 4; 0,36
+- 5; 0,36
+- 2; 0
+- 5; 0	MX=3,8; x1=2;	x2= ?	DX= ?
+? r1= 0,4;
++ 3;0,24
+- 5;0
+- 4;7
+- 1;005	MX=2,6;	x1=2;	x2= ?	DX= ?
+ 
+
+? r1= 0,2;
++ 1;4
+- 5;0
+- 4;74
+- 1;005	MX=2;	x1=6;	x2= ?	DX= ?
+? r1= 0,6;
++ -6; 29,04
+- 1; 4,32
+-	2,1;  3,1
+- 5; 2,3	MX=0,6;	x1=5;	x2= ?	DX= ?
+?
++ S=1; MX=
+- S=1;	MX=2	a) S=?		b)  MX= ?	
+-	S= ; MX=
+- S=5; MX=
